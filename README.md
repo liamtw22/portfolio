@@ -6,7 +6,7 @@ This repository serves as a showcase for my website design portfolio. It feature
 
 Here is a list of the projects included in this portfolio:
 
-1. Tadpole: [Brief description of Project A]
+1. Tadpole: Tadpole is a more casual and versatile business social media. Tadpole allows users to talk about themselves, respond to prompts such as typical interview questions in video format, and display different professional projects on their profile for companies and other professionals to view.
 
 Each project folder contains a set of high-quality images showcasing the design and layout of the website.
 
@@ -18,7 +18,7 @@ To view the project images, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/website-design-portfolio.git
+   git clone https://github.com/liamtw22/portfolio.git
    ```
 
 2. Open the project folder you wish to view.
